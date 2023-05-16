@@ -16,8 +16,8 @@ The human activity recognition model achieves an impressive accuracy of 97% in c
 ### Dependencies
 The following dependencies are required to run the project:
 
-TensorFlow
-NumPy
-Pandas
-Matplotlib
+TensorFlow  
+NumPy    
+Pandas   
+Matplotlib   
 Please make sure to have these libraries installed before running the code.
